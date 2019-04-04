@@ -1,4 +1,4 @@
-# Create a Facebook APP & get App ID & Secret Key:
+# Creating a Facebook APP & get App ID & Secret Key
 These are simple steps that can be followed by anyone without the requirement of being a developer. So if you are configuring a Facebook related WordPress plugin or using a 3rd party app which requires Fb Secret Key & ID, this tutorial would be of great help.
 
 Head over to [Facebook developers page](https://developers.facebook.com/apps) & click on create a new app
