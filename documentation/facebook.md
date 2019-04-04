@@ -4,7 +4,7 @@ These are simple steps that can be followed by anyone without the requirement of
 Head over to [Facebook developers page](https://developers.facebook.com/apps) & click on create a new app
 <Img src="https://www.shoutmeloud.com/wp-content/uploads/2015/09/Create-basic-Facebook-App.png" />
 
-Select the kind of app you are using. For configuring Q2A Social LOgin plugin, it’s usually websites.
+Select the kind of app you are using. For configuring Q2A Social Login plugin, it’s usually websites.
 <img src="https://www.shoutmeloud.com/wp-content/uploads/2015/09/Add-new-Facebook-app.png"/>
 
 * On the next page give a name to your app. Make it relevant or if you are testing this right now, call it test app.
